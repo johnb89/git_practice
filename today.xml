@@ -1,0 +1,349 @@
+<base>
+	<config>
+		<building>
+			<timestart>0700</timestart>
+			<timeend>2300</timeend>
+		</building>
+		<sector>
+			<processor>A</processor>
+			<name>Alpha</name>
+			<mac>00107F123456</mac>
+			<available>yes</available>
+			<title>Alberta Adventure</title>
+		</sector>
+		<sector>
+			<processor>B</processor>
+			<name>Bravo</name>
+			<mac>00107F654321</mac>
+			<available>no</available>
+			<title>Bison Brigade</title>
+		</sector>
+		<sector>
+			<processor>C</processor>
+			<name>Charlie</name>
+			<mac>00107F010101</mac>
+			<available>yes</available>
+			<title>Chicago Cruising</title>
+		</sector>		
+		<sector>
+			<processor>D</processor>
+			<name>Delta</name>
+			<mac>00107F223344</mac>
+			<available>yes</available>
+			<title>Denmark Doodles</title>
+		</sector>
+		<sector>
+			<processor>E</processor>
+			<name>Echo</name>
+			<mac>00107F00AB00</mac>
+			<available>yes</available>
+			<title>Eating Eggs</title>
+		</sector>	
+		<sector>
+			<processor>F</processor>
+			<name>Foxtrot</name>
+			<mac>00107FBEEED0</mac>
+			<available>yes</available>
+			<title>Flying Fish</title>
+		</sector>
+		<sector>
+			<processor>G</processor>
+			<name>Gamma</name>
+			<mac>00107FABE209</mac>
+			<available>yes</available>
+			<title>Green Grass Golf</title>
+		</sector>		
+	</config>
+	<menu>
+		<order>
+			<SMStelno>(416)555-1212</SMStelno>
+			<timestart>0700</timestart>
+			<timeend>2230</timeend>
+		</order>
+		<item>
+			<category>Entrees</category>  
+			<name>Fish and Chips</name>
+			<price>14.86</price>
+			<featured>yes</featured>
+			<code>6001139</code>
+			<timestart>0945</timestart>
+			<timeend>1600</timeend>
+		</item>
+		<item>
+			<category>Entrees</category>  
+			<name>Bangers and Mash</name>
+			<price>16.41</price>
+			<featured>yes</featured>
+			<code>6001140</code>
+			<timestart>1130</timestart>
+			<timeend>1430</timeend>
+		</item>
+		<item>
+			<category>Entrees</category>  
+			<name>Rosemary Chicken Penne</name>
+			<price>19.44</price>
+			<featured>yes</featured>
+			<code>6001141</code>
+			<timestart>1100</timestart>
+			<timeend>2100</timeend>
+		</item>
+		<item>
+			<category>Entrees</category>  
+			<name>Chicken Curry</name>
+			<price>17.76</price>
+			<featured>yes</featured>
+			<code>6001142</code>
+			<timestart>1100</timestart>
+			<timeend>2100</timeend>
+		</item>
+		<item>
+			<category>Entrees</category>  
+			<name>Cheese Quesadilla</name>
+			<price>11.42</price>
+			<featured>no</featured>
+			<code>6001143</code>
+			<timestart>1100</timestart>
+			<timeend>2200</timeend>
+		</item>
+		<item>
+			<category>Entrees</category>  
+			<name>Chicken Fingers</name>
+			<price>14.86</price>
+			<featured>no</featured>
+			<code>6001144</code>
+			<timestart>1100</timestart>
+			<timeend>2200</timeend>
+		</item>		
+		<item>
+			<category>Entrees</category>  
+			<name>Peppercorn Steak Fettuccine</name>
+			<price>14.86</price>
+			<featured>yes</featured>
+			<code>6001145</code>
+			<timestart>1100</timestart>
+			<timeend>2200</timeend>
+		</item>		
+		<item>
+			<category>Steaks</category>  
+			<name>Sirloin Steak Dinner</name>
+			<price>22.49</price>
+			<featured>no</featured>
+			<code>6001146</code>
+			<timestart>1530</timestart>
+			<timeend>2000</timeend>
+		</item>		
+		<item>
+			<category>Steaks</category>  
+			<name>Steak Sampler Board</name>
+			<price>35.40</price>
+			<featured>no</featured>
+			<code>6001147</code>
+			<timestart>1530</timestart>
+			<timeend>2000</timeend>
+		</item>	
+		<item>
+			<category>Steaks</category>  
+			<name>Uncles 96oz Rib-Eye</name>
+			<price>78</price>
+			<featured>yes</featured>
+			<code>6001148</code>
+			<timestart>1530</timestart>
+			<timeend>2000</timeend>
+		</item>				
+		<item>
+			<category>Beverages</category>  
+			<name>Super-Filtered Water</name>
+			<price>8.5</price>
+			<featured>yes</featured>
+			<code>6500852</code>
+		</item>
+		<item>
+			<category>Beverages</category>  
+			<name>Grape Nehi</name>
+			<price>2</price>
+			<featured>no</featured>
+			<code>6500853</code>
+		</item>
+		<item>
+			<category>Beverages</category>  
+			<name>Irn Bru</name>
+			<price>2</price>
+			<featured>no</featured>
+			<code>6500854</code>
+		</item>
+		<item>
+			<category>Beverages</category>  
+			<name>Mountain Dew</name>
+			<price>2</price>
+			<featured>yes</featured>
+			<code>6500855</code>
+		</item>
+		<item>
+			<category>Beverages</category>  
+			<name>Orange Whip</name>
+			<price>3</price>
+			<featured>no</featured>
+			<code>6500856</code>
+		</item>		
+		<item>
+			<category>Add-Ons</category>  
+			<name>Guacamole</name>
+			<price>1.98</price>
+			<featured>no</featured>
+			<code>6500857</code>
+		</item>		
+		<item>
+			<category>Add-Ons</category>  
+			<name>French Fries</name>
+			<price>5.78</price>
+			<featured>no</featured>
+			<code>6001158</code>
+			<timestart>1100</timestart>
+			<timeend>2300</timeend>
+		</item>		
+		<item>
+			<category>Add-Ons</category>  
+			<name>Pound of Bacon</name>
+			<price>16.50</price>
+			<featured>yes</featured>
+			<code>6001159</code>
+			<timestart>1100</timestart>
+			<timeend>2300</timeend>
+		</item>		
+		<item>
+			<category>Sandwiches</category>  
+			<name>Crunchy Chicken Sandwich</name>
+			<price>9.64</price>
+			<featured>no</featured>
+			<code>6001160</code>
+			<timestart>1100</timestart>
+			<timeend>2300</timeend>
+		</item>		
+		<item>
+			<category>Sandwiches</category>  
+			<name>Sausage and Egg on a Bagel</name>
+			<price>1</price>
+			<featured>no</featured>
+			<code>6001161</code>
+			<timestart>0700</timestart>
+			<timeend>1100</timeend>
+		</item>	
+		<item>
+			<category>Sandwiches</category>  
+			<name>One Pound Burger</name>
+			<price>20.58</price>
+			<featured>yes</featured>
+			<code>6001162</code>
+			<timestart>1100</timestart>
+			<timeend>2300</timeend>
+		</item>		
+		<item>
+			<category>Snacks</category>  
+			<name>Spicy Chicken Wings</name>
+			<price>11.22</price>
+			<featured>no</featured>
+			<code>6001163</code>
+			<timestart>1000</timestart>
+			<timeend>2300</timeend>
+		</item>		
+		<item>
+			<category>Snacks</category>  
+			<name>Poutine</name>
+			<price>11.97</price>
+			<featured>yes</featured>
+			<code>6001164</code>
+			<timestart>1000</timestart>
+			<timeend>2300</timeend>
+		</item>	
+		<item>
+			<category>Snacks</category>  
+			<name>Deep Fried Pickles</name>
+			<price>8.53</price>
+			<featured>yes</featured>
+			<code>6001165</code>
+			<timestart>1000</timestart>
+			<timeend>2300</timeend>
+		</item>		
+		<item>
+			<category>Snacks</category>  
+			<name>Baked Brie</name>
+			<price>13.75</price>
+			<featured>yes</featured>
+			<code>6001166</code>
+			<timestart>1000</timestart>
+			<timeend>2300</timeend>
+		</item>	
+		<item>
+			<category>Snacks</category>  
+			<name>Onion Rings</name>
+			<price>7.62</price>
+			<featured>no</featured>
+			<code>6001167</code>
+			<timestart>1000</timestart>
+			<timeend>2300</timeend>
+		</item>	
+		<item>
+			<category>Salads</category>  
+			<name>Steak Fajita Salad</name>
+			<price>20.32</price>
+			<featured>yes</featured>
+			<code>6001168</code>
+			<timestart>0800</timestart>
+			<timeend>2130</timeend>
+		</item>			
+		<item>
+			<category>Salads</category>  
+			<name>Garden Salad</name>
+			<price>5.99</price>
+			<featured>no</featured>
+			<code>6001169</code>
+			<timestart>0800</timestart>
+			<timeend>2130</timeend>
+		</item>			
+		<item>
+			<category>Salads</category>  
+			<name>Caesar Salad</name>
+			<price>5.99</price>
+			<featured>no</featured>
+			<code>6001170</code>
+			<timestart>0800</timestart>
+			<timeend>2130</timeend>
+		</item>			
+		<item>
+			<category>Salads</category>  
+			<name>Greek Salad</name>
+			<price>8.49</price>
+			<featured>no</featured>
+			<code>6001171</code>
+			<timestart>0800</timestart>
+			<timeend>2130</timeend>
+		</item>	
+		<item>
+			<category>Desserts</category>  
+			<name>Sticky Toffee Pudding</name>
+			<price>6.82</price>
+			<featured>yes</featured>
+			<code>6001172</code>
+			<timestart>1015</timestart>
+			<timeend>2230</timeend>
+		</item>					
+		<item>
+			<category>Desserts</category>  
+			<name>Beaver Tails (2)</name>
+			<price>18</price>
+			<featured>yes</featured>
+			<code>6001173</code>
+			<timestart>1015</timestart>
+			<timeend>2230</timeend>
+		</item>	
+		<item>
+			<category>Desserts</category>  
+			<name>After-Dinner Mint (Wafer Thin)</name>
+			<price>0.50</price>
+			<featured>yes</featured>
+			<code>6001174</code>
+			<timestart>1015</timestart>
+			<timeend>2230</timeend>
+		</item>					
+	</menu>
+</base>
